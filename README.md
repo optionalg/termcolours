@@ -20,10 +20,8 @@ termcolours
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![screenshot](https://cloud.githubusercontent.com/assets/8317250/15145024/309e173c-16ee-11e6-91fa-f0e493d77682.png)
 
-[travis-link]: https://travis-ci.org/fishery/termcolours
-[travis-badge]: https://img.shields.io/travis/fishery/termcolours.svg?style=flat-square
 [slack-link]: https://fisherman-wharf.herokuapp.com/
-[slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 [fisherman]: https://github.com/fisherman/fisherman
